@@ -106,9 +106,6 @@ Run the cells top to bottom. The first cells download the required NLTK resource
 - **SMOTE on text**: SMOTE interpolates in TF-IDF space, so the synthetic samples are not real text.
 - **Possible next steps**: pre-trained embeddings (GloVe, fastText), transformer models (BERT/DistilBERT), collapsing ratings into negative/neutral/positive, and evaluating on a held-out time period.
 
-## License
-
-Add a license of your choice (e.g. MIT) here.
 
 ## Acknowledgements
 
